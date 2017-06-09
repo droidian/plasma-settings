@@ -1,7 +1,7 @@
 Source: plasma-settings
 Section: kde
 Priority: optional
-Maintainer: Kubuntu Developers <kubuntu-devel@lists.ubuntu.com>
+Maintainer: Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
 XSBC-Original-Maintainer: Boudewijn Rempt <boud@kde.org>
 Build-Depends: cmake (>= 3.0.0),
                debhelper (>= 0),
