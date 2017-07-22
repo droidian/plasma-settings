@@ -1,34 +1,34 @@
-plasma-settings (0.0.1ubuntu5) vivid; urgency=medium
+plasma-settings (0.0.1-0ubuntu5) vivid; urgency=medium
 
   * add dep to qml-module-ubuntu-onlineaccounts
 
  -- Bhushan Shah <bshah@kde.org>  Tue, 12 Jan 2016 18:29:38 +0530
 
-plasma-settings (0.0.1ubuntu4) vivid; urgency=medium
+plasma-settings (0.0.1-0ubuntu4) vivid; urgency=medium
 
   * add deps
 
  -- Boudewijn Rempt <boud@kde.org>  Fri, 05 Jun 2015 08:03:51 +0000
 
-plasma-settings (0.0.1ubuntu3) vivid; urgency=medium
+plasma-settings (0.0.1-0ubuntu3) vivid; urgency=medium
 
   *  add deps
 
  -- Boudewijn Rempt <boud@kde.org>  Fri, 05 Jun 2015 07:57:36 +0000
 
-plasma-settings (0.0.1ubuntu2) vivid; urgency=medium
+plasma-settings (0.0.1-0ubuntu2) vivid; urgency=medium
 
   * fix dependency 
 
  -- Boudewijn Rempt <boud@kde.org>  Fri, 05 Jun 2015 07:48:43 +0000
 
-plasma-settings (0.0.1ubuntu1) vivid; urgency=medium
+plasma-settings (0.0.1-0ubuntu1) vivid; urgency=medium
 
   * Add ecm as dependency
 
  -- Boudewijn Rempt <boud@kde.org>  Fri, 05 Jun 2015 07:37:38 +0000
 
-plasma-settings (0.0.1) vivid; urgency=medium
+plasma-settings (0.0.1-0ubuntu0) vivid; urgency=medium
 
   * Initial release. 
 
