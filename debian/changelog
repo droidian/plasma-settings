@@ -1,3 +1,9 @@
+plasma-settings (0.0.1+git20170117-1) UNRELEASED; urgency=medium
+
+  * New Snapshot
+
+ -- JBBgameich <jbb.mail@gmx.de>  Fri, 28 Jul 2017 20:17:14 +0200
+
 plasma-settings (0.0.1-0ubuntu5) vivid; urgency=medium
 
   * add dep to qml-module-ubuntu-onlineaccounts
