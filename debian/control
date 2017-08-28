@@ -55,13 +55,3 @@ Depends: kaccounts-integration,
          ${shlibs:Depends}
 Description: Plasma phone settings application
  The settings application and a few modules for it.
-
-Package: plasma-settings-dbg
-Architecture: any
-Section: debug
-Priority: extra
-Depends: plasma-settings (= ${binary:Version}), ${misc:Depends}
-Description: Plasma phone settings application
- The settings application and a few modules for it.
- .
- This package contains debugging symbols.
