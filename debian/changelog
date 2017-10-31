@@ -1,8 +1,8 @@
-plasma-settings (0.0.1+git20170117-1) UNRELEASED; urgency=medium
+plasma-settings (0.0.1+git20171030-1) UNRELEASED; urgency=medium
 
   * New Snapshot
 
- -- JBBgameich <jbb.mail@gmx.de>  Fri, 28 Jul 2017 20:17:14 +0200
+ -- JBBgameich <jbb.mail@gmx.de>  Tue, 31 Oct 2017 13:17:38 +0100
 
 plasma-settings (0.0.1-0ubuntu5) vivid; urgency=medium
 
