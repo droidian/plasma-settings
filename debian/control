@@ -34,7 +34,6 @@ Build-Depends: cmake (>= 3.0.0),
                pkg-config,
                pkg-kde-tools (>= 0.9),
                plasma-framework-dev,
-               plasma-mobile,
                qt5-default,
                qtbase5-private-dev
 Standards-Version: 4.1.1
@@ -47,7 +46,6 @@ Architecture: any
 Depends: kaccounts-integration,
          kaccounts-providers,
          plasma-framework,
-         plasma-mobile,
          qml-module-org-kde-kaccounts,
          qml-module-ubuntu-onlineaccounts,
          qml-module-org-kde-kirigami2,
