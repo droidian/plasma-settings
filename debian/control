@@ -33,7 +33,7 @@ Build-Depends: cmake (>= 3.0.0),
                libsignon-qt5-dev,
                pkg-config,
                pkg-kde-tools (>= 0.9),
-               plasma-framework-dev,
+               libkf5plasma-dev,
                qtbase5-dev,
                qtbase5-private-dev
 Standards-Version: 4.1.3
