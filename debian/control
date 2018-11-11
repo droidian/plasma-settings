@@ -37,7 +37,7 @@ Build-Depends: cmake (>= 3.0.0),
                pkg-kde-tools (>= 0.9),
                qtbase5-dev,
                qtbase5-private-dev
-Standards-Version: 4.1.4
+Standards-Version: 4.2.1
 Homepage: https://projects.kde.org/projects/extragear/base/plasma-settings
 Vcs-Browser: https://gitlab.com/debian-pm/plasma-mobile/plasma-settings
 Vcs-Git: https://gitlab.com/debian-pm/plasma-mobile/plasma-settings.git
