@@ -10,35 +10,18 @@ Build-Depends: cmake (>= 3.0.0),
                libaccounts-qt5-dev,
                libgettextpo-dev,
                libkaccounts-dev,
-               libkf5archive-dev,
-               libkf5auth-dev,
-               libkf5bookmarks-dev,
-               libkf5codecs-dev,
-               libkf5completion-dev,
-               libkf5config-dev,
-               libkf5contacts-dev,
                libkf5coreaddons-dev,
-               libkf5dbusaddons-dev,
                libkf5declarative-dev,
                libkf5i18n-dev,
-               libkf5iconthemes-dev,
                libkf5kdelibs4support-dev,
-               libkf5notifications-dev,
                libkf5plasma-dev,
-               libkf5plasma5,
-               libkf5plasmaquick5,
-               libkf5service-dev,
-               libkf5solid-dev,
-               libkf5sonnet-dev,
-               libkf5windowsystem-dev,
-               libkpimgapi-dev,
                libsignon-qt5-dev,
                pkg-config,
                pkg-kde-tools (>= 0.9),
                qtbase5-dev,
                qtbase5-private-dev
 Standards-Version: 4.2.1
-Homepage: https://projects.kde.org/projects/extragear/base/plasma-settings
+Homepage: https://invent.kde.org/kde/plasma-settings
 Vcs-Browser: https://gitlab.com/debian-pm/plasma-mobile/plasma-settings
 Vcs-Git: https://gitlab.com/debian-pm/plasma-mobile/plasma-settings.git
 
