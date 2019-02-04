@@ -1,10 +1,10 @@
-plasma-settings (0.0.1+git20190118-1) UNRELEASED; urgency=medium
+plasma-settings (0.0.1+git20190204-1) UNRELEASED; urgency=medium
 
   * New Snapshot
   * libkgapi-dev -> libkpimgapi-dev
   * Add dep to qml-module-org-kde-kirigami2
 
- -- Jonah Brüchert <jbb@kaidan.im>  Fri, 18 Jan 2019 19:11:16 +0100
+ -- Jonah Brüchert <jbb@kaidan.im>  Mon, 04 Feb 2019 18:43:00 +0100
 
 plasma-settings (0.0.1-0ubuntu5) vivid; urgency=medium
 
