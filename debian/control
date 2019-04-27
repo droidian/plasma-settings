@@ -27,8 +27,7 @@ Vcs-Git: https://gitlab.com/debian-pm/plasma-mobile/plasma-settings.git
 
 Package: plasma-settings
 Architecture: any
-Depends: kaccounts-integration,
-         kaccounts-providers,
+Depends: kaccounts-providers,
          plasma-framework,
          qml-module-org-kde-kaccounts,
          qml-module-org-kde-kcm,
