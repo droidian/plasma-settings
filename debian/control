@@ -1,9 +1,8 @@
 Source: plasma-settings
+Maintainer: Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
 Section: kde
 Priority: optional
-Maintainer: Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
-XSBC-Original-Maintainer: Boudewijn Rempt <boud@kde.org>
-Build-Depends: cmake (>= 3.0.0),
+Build-Depends: cmake,
                debhelper (>= 11),
                extra-cmake-modules,
                libaccounts-glib-dev,
@@ -17,13 +16,14 @@ Build-Depends: cmake (>= 3.0.0),
                libkf5plasma-dev,
                libsignon-qt5-dev,
                pkg-config,
-               pkg-kde-tools (>= 0.9),
+               pkg-kde-tools,
                qtbase5-dev,
                qtbase5-private-dev
 Standards-Version: 4.3.0
-Homepage: https://invent.kde.org/kde/plasma-settings
 Vcs-Browser: https://gitlab.com/debian-pm/plasma-mobile/plasma-settings
 Vcs-Git: https://gitlab.com/debian-pm/plasma-mobile/plasma-settings.git
+Homepage: https://invent.kde.org/kde/plasma-settings
+XSBC-Original-Maintainer: Boudewijn Rempt <boud@kde.org>
 
 Package: plasma-settings
 Architecture: any

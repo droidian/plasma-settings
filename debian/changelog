@@ -1,3 +1,9 @@
+plasma-settings (0.0.1+git20190525-1) UNRELEASED; urgency=medium
+
+  * New snapshot
+
+ -- Jonah Brüchert <jbb@kaidan.im>  Sat, 25 May 2019 09:48:44 +0200
+
 plasma-settings (0.0.1+git20190204-2) unstable; urgency=medium
 
   * Remove dependency on kaccounts-integration
