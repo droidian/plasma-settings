@@ -3,7 +3,7 @@ Maintainer: Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
 Section: kde
 Priority: optional
 Build-Depends: cmake,
-               debhelper (>= 11),
+               debhelper (>= 12),
                extra-cmake-modules,
                libaccounts-glib-dev,
                libaccounts-qt5-dev,
@@ -19,7 +19,7 @@ Build-Depends: cmake,
                pkg-kde-tools,
                qtbase5-dev,
                qtbase5-private-dev
-Standards-Version: 4.3.0
+Standards-Version: 4.5.0
 Vcs-Browser: https://gitlab.com/debian-pm/plasma-mobile/plasma-settings
 Vcs-Git: https://gitlab.com/debian-pm/plasma-mobile/plasma-settings.git
 Homepage: https://invent.kde.org/kde/plasma-settings
