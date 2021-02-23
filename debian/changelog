@@ -1,3 +1,9 @@
+plasma-settings (0.1-1) UNRELEASED; urgency=medium
+
+  * New upstream release
+
+ -- Jonah Brüchert <jbb@kaidan.im>  Wed, 24 Feb 2021 00:29:13 +0100
+
 plasma-settings (0.0.1+git20200706-1) unstable; urgency=medium
 
   * New snapshot
