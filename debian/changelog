@@ -1,8 +1,8 @@
-plasma-settings (21.05-1) UNRELEASED; urgency=medium
+plasma-settings (21.05-1) unstable; urgency=medium
 
   * New upstream release
 
- -- Jonah Brüchert <jbb@kaidan.im>  Mon, 10 May 2021 20:39:36 +0200
+ -- Jonah Brüchert <jbb@kaidan.im>  Tue, 11 May 2021 00:23:31 +0200
 
 plasma-settings (0.2-1) unstable; urgency=medium
 
