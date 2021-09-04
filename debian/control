@@ -5,16 +5,11 @@ Priority: optional
 Build-Depends: cmake,
                debhelper (>= 12),
                extra-cmake-modules,
-               libaccounts-glib-dev,
-               libaccounts-qt5-dev,
-               libgettextpo-dev,
-               libkaccounts-dev,
                libkf5coreaddons-dev,
                libkf5declarative-dev,
                libkf5i18n-dev,
                libkf5kdelibs4support-dev,
                libkf5plasma-dev,
-               libsignon-qt5-dev,
                pkg-config,
                pkg-kde-tools,
                qtbase5-dev,
@@ -29,10 +24,8 @@ Package: plasma-settings
 Architecture: any
 Depends: kaccounts-providers,
          plasma-framework,
-         qml-module-org-kde-kaccounts,
          qml-module-org-kde-kcm,
          qml-module-org-kde-kirigami2,
-         qml-module-ubuntu-onlineaccounts,
          ${misc:Depends},
          ${shlibs:Depends}
 Description: Plasma phone settings application
