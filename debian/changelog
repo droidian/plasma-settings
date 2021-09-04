@@ -1,8 +1,9 @@
-plasma-settings (21.07-2) UNRELEASED; urgency=medium
+plasma-settings (21.08-1) UNRELEASED; urgency=medium
 
+  * New upstream release
   * Remove dep on qml-module-ubuntu-onlineaccounts
 
- -- Jonah Brüchert <jbb@kaidan.im>  Sat, 04 Sep 2021 22:11:55 +0200
+ -- Jonah Brüchert <jbb@kaidan.im>  Sat, 04 Sep 2021 22:48:07 +0200
 
 plasma-settings (21.07-1) unstable; urgency=medium
 
