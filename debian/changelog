@@ -1,3 +1,9 @@
+plasma-settings (21.08-3) UNRELEASED; urgency=medium
+
+  * New changelog entry
+
+ -- GitLab CI <https://gitlab.com/debian-pm/tools/build>  Tue, 07 Sep 2021 10:26:08 +0000
+
 plasma-settings (21.08-2) unstable; urgency=medium
 
   * Suggest kaccounts-integration
