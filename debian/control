@@ -22,11 +22,11 @@ XSBC-Original-Maintainer: Boudewijn Rempt <boud@kde.org>
 
 Package: plasma-settings
 Architecture: any
-Depends: kaccounts-providers,
-         plasma-framework,
+Depends: plasma-framework,
          qml-module-org-kde-kcm,
          qml-module-org-kde-kirigami2,
          ${misc:Depends},
          ${shlibs:Depends}
+Suggests: kaccounts-integration, kaccounts-providers
 Description: Plasma phone settings application
  The settings application and a few modules for it.
