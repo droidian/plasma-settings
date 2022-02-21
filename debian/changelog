@@ -1,8 +1,8 @@
-plasma-settings (21.08-3) UNRELEASED; urgency=medium
+plasma-settings (22.02-1) UNRELEASED; urgency=medium
 
-  * New changelog entry
+  * New upstream release
 
- -- GitLab CI <https://gitlab.com/debian-pm/tools/build>  Tue, 07 Sep 2021 10:26:08 +0000
+ -- Jonah Brüchert <jbb@kaidan.im>  Mon, 21 Feb 2022 03:01:48 +0100
 
 plasma-settings (21.08-2) unstable; urgency=medium
 
