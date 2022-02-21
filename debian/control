@@ -5,14 +5,15 @@ Priority: optional
 Build-Depends: cmake,
                debhelper (>= 12),
                extra-cmake-modules,
+               libglib2.0-dev,
                libkf5coreaddons-dev,
                libkf5declarative-dev,
                libkf5i18n-dev,
+               libkf5networkmanagerqt-dev,
                libkf5plasma-dev,
                pkg-config,
                pkg-kde-tools,
-               qtbase5-dev,
-               libglib2.0-dev
+               qtbase5-dev
 Standards-Version: 4.5.0
 Vcs-Browser: https://gitlab.com/debian-pm/plasma-mobile/plasma-settings
 Vcs-Git: https://gitlab.com/debian-pm/plasma-mobile/plasma-settings.git
