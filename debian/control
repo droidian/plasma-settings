@@ -11,6 +11,7 @@ Build-Depends: cmake,
                libkf5i18n-dev,
                libkf5networkmanagerqt-dev,
                libkf5plasma-dev,
+               modemmanager-qt-dev,
                pkg-config,
                pkg-kde-tools,
                qtbase5-dev
