@@ -1,3 +1,9 @@
+plasma-settings (22.02-2) UNRELEASED; urgency=medium
+
+  * New changelog entry
+
+ -- GitLab CI <https://gitlab.com/debian-pm/tools/build>  Mon, 28 Mar 2022 14:34:00 +0000
+
 plasma-settings (22.02-1) unstable; urgency=medium
 
   * New upstream release
