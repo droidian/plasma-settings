@@ -1,0 +1,33 @@
+Source: plasma-settings
+Maintainer: Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+Section: kde
+Priority: optional
+Build-Depends: cmake,
+               debhelper (>= 12),
+               extra-cmake-modules,
+               libglib2.0-dev,
+               libkf5coreaddons-dev,
+               libkf5declarative-dev,
+               libkf5i18n-dev,
+               libkf5networkmanagerqt-dev,
+               libkf5plasma-dev,
+               modemmanager-qt-dev,
+               pkg-config,
+               pkg-kde-tools,
+               qtbase5-dev
+Standards-Version: 4.5.0
+Vcs-Browser: https://gitlab.com/debian-pm/plasma-mobile/plasma-settings
+Vcs-Git: https://gitlab.com/debian-pm/plasma-mobile/plasma-settings.git
+Homepage: https://invent.kde.org/kde/plasma-settings
+XSBC-Original-Maintainer: Boudewijn Rempt <boud@kde.org>
+
+Package: plasma-settings
+Architecture: any
+Depends: plasma-framework,
+         qml-module-org-kde-kcm,
+         qml-module-org-kde-kirigami2,
+         ${misc:Depends},
+         ${shlibs:Depends}
+Suggests: kaccounts-integration, kaccounts-providers
+Description: Plasma phone settings application
+ The settings application and a few modules for it.

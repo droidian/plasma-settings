@@ -1,0 +1,116 @@
+plasma-settings (22.02-2) UNRELEASED; urgency=medium
+
+  * New changelog entry
+
+ -- GitLab CI <https://gitlab.com/debian-pm/tools/build>  Mon, 28 Mar 2022 14:34:00 +0000
+
+plasma-settings (22.02-1) unstable; urgency=medium
+
+  * New upstream release
+
+ -- Jonah Brüchert <jbb@kaidan.im>  Mon, 28 Mar 2022 16:31:33 +0200
+
+plasma-settings (21.08-2) unstable; urgency=medium
+
+  * Suggest kaccounts-integration
+
+ -- Jonah Brüchert <jbb@kaidan.im>  Tue, 07 Sep 2021 11:43:56 +0200
+
+plasma-settings (21.08-1) unstable; urgency=medium
+
+  * New upstream release
+  * Remove dep on qml-module-ubuntu-onlineaccounts
+
+ -- Jonah Brüchert <jbb@kaidan.im>  Mon, 06 Sep 2021 13:23:41 +0200
+
+plasma-settings (21.07-1) unstable; urgency=medium
+
+  * New upstream release
+
+ -- Jonah Brüchert <jbb@kaidan.im>  Tue, 31 Aug 2021 15:19:38 +0200
+
+plasma-settings (21.05-1) unstable; urgency=medium
+
+  * New upstream release
+
+ -- Jonah Brüchert <jbb@kaidan.im>  Tue, 11 May 2021 00:23:31 +0200
+
+plasma-settings (0.2-1) unstable; urgency=medium
+
+  * New upstream release
+
+ -- Jonah Brüchert <jbb@kaidan.im>  Wed, 07 Apr 2021 14:48:16 +0200
+
+plasma-settings (0.1-1) unstable; urgency=medium
+
+  * New upstream release
+
+ -- Jonah Brüchert <jbb@kaidan.im>  Wed, 24 Feb 2021 00:29:33 +0100
+
+plasma-settings (0.0.1+git20200706-1) unstable; urgency=medium
+
+  * New snapshot
+
+ -- Jonah Brüchert <jbb@kaidan.im>  Mon, 06 Jul 2020 03:46:39 +0200
+
+plasma-settings (0.0.1+git20200222-1) unstable; urgency=medium
+
+  * New snapshot
+
+ -- Jonah Brüchert <jbb@kaidan.im>  Sat, 22 Feb 2020 11:47:35 +0100
+
+plasma-settings (0.0.1+git20190525-1) unstable; urgency=medium
+
+  * New snapshot
+
+ -- Jonah Brüchert <jbb@kaidan.im>  Sat, 25 May 2019 10:20:44 +0200
+
+plasma-settings (0.0.1+git20190204-2) unstable; urgency=medium
+
+  * Remove dependency on kaccounts-integration
+
+ -- Jonah Brüchert <jbb@kaidan.im>  Sat, 27 Apr 2019 10:24:29 +0200
+
+plasma-settings (0.0.1+git20190204-1) unstable; urgency=medium
+
+  * New Snapshot
+  * libkgapi-dev -> libkpimgapi-dev
+  * Add dep to qml-module-org-kde-kirigami2
+
+ -- Jonah Brüchert <jbb@kaidan.im>  Mon, 04 Feb 2019 18:43:00 +0100
+
+plasma-settings (0.0.1-0ubuntu5) vivid; urgency=medium
+
+  * add dep to qml-module-ubuntu-onlineaccounts
+
+ -- Bhushan Shah <bshah@kde.org>  Tue, 12 Jan 2016 18:29:38 +0530
+
+plasma-settings (0.0.1-0ubuntu4) vivid; urgency=medium
+
+  * add deps
+
+ -- Boudewijn Rempt <boud@kde.org>  Fri, 05 Jun 2015 08:03:51 +0000
+
+plasma-settings (0.0.1-0ubuntu3) vivid; urgency=medium
+
+  *  add deps
+
+ -- Boudewijn Rempt <boud@kde.org>  Fri, 05 Jun 2015 07:57:36 +0000
+
+plasma-settings (0.0.1-0ubuntu2) vivid; urgency=medium
+
+  * fix dependency 
+
+ -- Boudewijn Rempt <boud@kde.org>  Fri, 05 Jun 2015 07:48:43 +0000
+
+plasma-settings (0.0.1-0ubuntu1) vivid; urgency=medium
+
+  * Add ecm as dependency
+
+ -- Boudewijn Rempt <boud@kde.org>  Fri, 05 Jun 2015 07:37:38 +0000
+
+plasma-settings (0.0.1-0ubuntu0) vivid; urgency=medium
+
+  * Initial release. 
+
+ -- Boudewijn Rempt <boud@kde.org>  Wed, 05 June 2015 09:50:41 +0000
